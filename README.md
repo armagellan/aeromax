@@ -1,7 +1,7 @@
 # Aeromax
 ## Theme for aeromax2014
 
-This folder contains the aeromax theme files.
+This folder contains the **aeromax** theme files.
 
 Tree catalogs & files:
 * inc/
